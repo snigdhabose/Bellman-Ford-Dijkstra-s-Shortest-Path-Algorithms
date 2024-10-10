@@ -18,8 +18,6 @@ This repository contains C++ implementations of various graph algorithms and tec
   - [Huffman Coding](#huffman-coding)
 
 
-![image](https://github.com/user-attachments/assets/49231fef-4bae-465b-9688-3ea7418498bb)
-
 ## Shortest Path Algorithms
 
 ### Bellman-Ford Algorithm
